@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebApp8_Server", "Bla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty8", "Empty8\Empty8.csproj", "{EB12B3E9-FDED-45B6-B399-F6F9739748E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService8", "WorkerService8\WorkerService8.csproj", "{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{EB12B3E9-FDED-45B6-B399-F6F9739748E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB12B3E9-FDED-45B6-B399-F6F9739748E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB12B3E9-FDED-45B6-B399-F6F9739748E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
