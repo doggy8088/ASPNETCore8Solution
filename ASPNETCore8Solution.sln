@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC8_Windows", "MVC8_Window
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC8_MicrosoftIdentityPlatform", "MVC8_MicrosoftIdentityPlatform\MVC8_MicrosoftIdentityPlatform.csproj", "{716302E7-8A16-4E6E-8FC7-E7BB41CAEAE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorePages8_NoHttps", "RazorePages8_NoHttps\RazorePages8_NoHttps.csproj", "{A3225AD0-3931-4279-965A-883A2A85F4EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{716302E7-8A16-4E6E-8FC7-E7BB41CAEAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{716302E7-8A16-4E6E-8FC7-E7BB41CAEAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{716302E7-8A16-4E6E-8FC7-E7BB41CAEAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3225AD0-3931-4279-965A-883A2A85F4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3225AD0-3931-4279-965A-883A2A85F4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3225AD0-3931-4279-965A-883A2A85F4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3225AD0-3931-4279-965A-883A2A85F4EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
