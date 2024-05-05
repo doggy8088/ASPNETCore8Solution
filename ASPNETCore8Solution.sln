@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty8", "Empty8\Empty8.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService8", "WorkerService8\WorkerService8.csproj", "{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService8", "GrpcService8\GrpcService8.csproj", "{2A88F460-931E-474A-9D28-14263E81719A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A38AF4EC-A216-4C24-BED9-9A69E888BCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A88F460-931E-474A-9D28-14263E81719A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A88F460-931E-474A-9D28-14263E81719A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A88F460-931E-474A-9D28-14263E81719A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A88F460-931E-474A-9D28-14263E81719A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
